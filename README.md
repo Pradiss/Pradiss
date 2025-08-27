@@ -1,46 +1,47 @@
-# Olá! Eu sou o **Erick Prado** 👋
+# 👋 Olá! Eu sou o **Erick Prado**
 
-Sou desenvolvedor focado em entregar **soluções práticas e eficientes**. Tenho experiência em **Front-end** e **Back-end**, criando aplicações modernas e funcionais.
+Sou desenvolvedor apaixonado por criar **soluções práticas, modernas e funcionais**.  
+Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resultados eficientes.
 
+---
 
 ## 🧰 Tecnologias
 
-<div style="display:flex; gap:50px; align-items:center; flex-wrap:wrap">
-  <img alt="HTML5" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="Bootstrap" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="PHP" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img alt="Laravel" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-  <img alt="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="React Native" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<div style="display:flex; gap:30px; align-items:center; flex-wrap:wrap">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img alt="Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="React Native" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div>
 
+---
 
 ## 📊 Estatísticas
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=erickprado&show_icons=true&theme=transparent&hide_title=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickprado&layout=compact&theme=transparent&langs_count=8" />
+</p>
+
+---
 
 ## 🚀 Projetos em destaque
 
-* **Sistema de gestão de clientes** — React + API REST
-* **Dashboard de dados** — Python + automações
-* **Landing pages responsivas** — HTML5, CSS3 e JS
+- **Sistema de Gestão de Clientes** — React + API REST  
+- **Dashboard de Dados** — Python + automações  
+- **Landing Pages Responsivas** — HTML5, CSS3 e JavaScript  
 
+---
 
 ## 📩 Contato
 
-* **LinkedIn**: (https://www.linkedin.com/in/erick-prado-9305112a2/)
-* **E-mail**: (erick.p436@gmail.com)
+- **LinkedIn**: [linkedin.com/in/erick-prado-9305112a2](https://www.linkedin.com/in/erick-prado-9305112a2/)  
+- **E-mail**: [erick.p436@gmail.com](mailto:erick.p436@gmail.com)  
 
+---
 
+✨ Sempre buscando aprender mais e entregar soluções de impacto!
