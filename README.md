@@ -30,9 +30,15 @@ Sou desenvolvedor focado em entregar **soluções práticas e eficientes**. Tenh
 ## 📊 Estatísticas
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&theme=transparent" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 ---
@@ -48,7 +54,7 @@ Sou desenvolvedor focado em entregar **soluções práticas e eficientes**. Tenh
 ## 📩 Contato
 
 * **LinkedIn**: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-* **E-mail**: [seuemail@dominio.com](mailto:seuemail@dominio.com)
+* **E-mail**: [seuemail@dominio.com](erick.p436@gmail.com)
 
 ---
 
