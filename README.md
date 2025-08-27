@@ -22,7 +22,7 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=erickprado&show_icons=true&theme=transparent&hide_title=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickprado&layout=compact&theme=transparent&langs_count=8" />
+ 
 </p>
 
 
