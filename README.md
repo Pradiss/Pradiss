@@ -55,7 +55,7 @@ Sou desenvolvedor focado em entregar **soluções práticas e eficientes**. Tenh
 
 ## 📩 Contato
 
-* **LinkedIn**: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+* **LinkedIn**: [linkedin.com/in/seu-usuario]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/erick-prado-9305112a2/)
 * **E-mail**: [seuemail@dominio.com](erick.p436@gmail.com)
 
 ---
