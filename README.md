@@ -29,8 +29,9 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
 
 ## 🚀 Projetos em destaque
 
-- **Plataforma de Músicos e a Bandas (Web e Mobile)** — Laravel + React + React Native  
-- **Integração de Pagamentos via PIX** — Laravel + React Native  
+- **Plataforma de Músicos e a Bandas (Web e Mobile) com nome de Zene ** — Laravel + React + React Native
+   
+- **Integração de Pagamentos via PIX com nome de Ibank ** — Laravel + React Native  
 
 
 ## 📩 Contato
