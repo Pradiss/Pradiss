@@ -3,7 +3,6 @@
 Sou desenvolvedor apaixonado por criar **soluções práticas, modernas e funcionais**.  
 Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resultados eficientes.
 
----
 
 ## 🧰 Tecnologias
 
@@ -18,7 +17,6 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
   <img alt="React Native" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div>
 
----
 
 ## 📊 Estatísticas
 
@@ -27,7 +25,6 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickprado&layout=compact&theme=transparent&langs_count=8" />
 </p>
 
----
 
 ## 🚀 Projetos em destaque
 
@@ -35,13 +32,11 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
 - **Dashboard de Dados** — Python + automações  
 - **Landing Pages Responsivas** — HTML5, CSS3 e JavaScript  
 
----
 
 ## 📩 Contato
 
 - **LinkedIn**: [linkedin.com/in/erick-prado-9305112a2](https://www.linkedin.com/in/erick-prado-9305112a2/)  
 - **E-mail**: [erick.p436@gmail.com](mailto:erick.p436@gmail.com)  
 
----
 
 ✨ Sempre buscando aprender mais e entregar soluções de impacto!
