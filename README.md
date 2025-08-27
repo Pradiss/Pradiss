@@ -6,7 +6,7 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
 
 ## 🧰 Tecnologias
 
-<div style="display:flex; gap:100px; align-items:center; flex-wrap:wrap">
+<div style="display:flex; gap:30px; align-items:center; flex-wrap:wrap justifyContent:space-round;">
   <img alt="React Native" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
