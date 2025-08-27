@@ -4,15 +4,6 @@ Sou desenvolvedor focado em entregar **soluções práticas e eficientes**. Tenh
 
 ---
 
-## 💼 O que eu faço
-
-* Desenvolvimento **Front-end** com **React e JavaScript**
-* Criação de interfaces responsivas com **HTML5 e CSS3**
-* Desenvolvimento **Back-end** com **PHP e  Laravel** e APIs REST
-* Desenvolvimento Mobile *React Native*
-
----
-
 ## 🧰 Tecnologias
 
 <div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap">
