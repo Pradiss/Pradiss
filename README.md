@@ -17,8 +17,6 @@ Sou desenvolvedor focado em entregar **soluções práticas e eficientes**. Tenh
 </div>
 
 
----
-
 ## 📊 Estatísticas
 
 <picture>
@@ -33,23 +31,16 @@ Sou desenvolvedor focado em entregar **soluções práticas e eficientes**. Tenh
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
----
-
 ## 🚀 Projetos em destaque
 
 * **Sistema de gestão de clientes** — React + API REST
 * **Dashboard de dados** — Python + automações
 * **Landing pages responsivas** — HTML5, CSS3 e JS
 
----
 
 ## 📩 Contato
 
 * **LinkedIn**: [linkedin.com/in/seu-usuario]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/erick-prado-9305112a2/)
 * **E-mail**: [seuemail@dominio.com](erick.p436@gmail.com)
 
----
 
-### Objetivo
-
-Atuar como desenvolvedor em projetos desafiadores, entregando **resultados rápidos, código limpo e soluções escaláveis**.
