@@ -21,17 +21,16 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=erickprado&show_icons=true&theme=transparent&hide_title=true&count_private=true" />
+<p align="start">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pradiss&show_icons=true&theme=transparent&hide_title=true&count_private=true" />
  
 </p>
 
 
 ## 🚀 Projetos em destaque
 
-- **Sistema de Gestão de Clientes** — React + API REST  
-- **Dashboard de Dados** — Python + automações  
-- **Landing Pages Responsivas** — HTML5, CSS3 e JavaScript  
+- **Plataforma de Músicos e a Bandas (Web e Mobile)** — Laravel + React + React Native  
+- **Integração de Pagamentos via PIX** — Laravel + React Native  
 
 
 ## 📩 Contato
