@@ -2,7 +2,6 @@
 
 Sou desenvolvedor focado em entregar **soluções práticas e eficientes**. Tenho experiência em **Front-end** e **Back-end**, criando aplicações modernas e funcionais.
 
----
 
 ## 🧰 Tecnologias
 
