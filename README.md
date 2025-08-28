@@ -29,9 +29,10 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
 
 ## 🚀 Projetos em destaque
 
-- Plataforma de Músicos e Bandas (Web e Mobile) — Zene | Laravel + React + React Native
-- 
-- Integração de Pagamentos via PIX — Ibank | Laravel + React Native  
+- Plataforma de Músicos e Bandas (Web e Mobile) — **Zene** | Laravel + React + React Native  
+- Integração de Pagamentos via PIX — **Ibank** | Laravel + React Native  
+- Sites Institucionais e Lojas Virtuais — **WordPress** | LINK: https://reisereismaquinas.com.br/ 
+
 
 
 ## 📩 Contato
