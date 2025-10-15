@@ -6,7 +6,7 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
 
 ## 🧰 Tecnologias
 
-<div style="display: flex; gap: 25px; align-items: center; justify-content: space-between; flex-wrap: nowrap; overflow-x: auto;">
+<div style="display: flex; gap: 25px; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   <img alt="React Native" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -15,7 +15,6 @@ Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resulta
   <img alt="PHP" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img alt="Laravel" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img alt="WordPress" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-
 </div>
 
 
