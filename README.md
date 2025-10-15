@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o **Erick Prado**
 
-Sou desenvolvedor apaixonado por criar **soluções práticas, modernas e funcionais**.  
-Tenho experiência em **Front-end** e **Back-end**, com foco em entregar resultados eficientes.
+Sou desenvolvedor com experiência em Front-end e Back-end, voltado para a criação de soluções práticas, modernas e funcionais, com foco em eficiência e qualidade nos resultados.
 
 
 ## 🧰 Tecnologias
