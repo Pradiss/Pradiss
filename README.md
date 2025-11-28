@@ -3,18 +3,25 @@
 Sou desenvolvedor com experiência em Front-end e Back-end, voltado para a criação de soluções práticas, modernas e funcionais, com foco em eficiência e qualidade nos resultados.
 
 
-## 🧰 Tecnologias
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f6e0.svg" width="24"/> Tecnologias e Ferramentas
+</hr>
 
-<div style="display: flex; gap: 25px; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <img alt="React Native" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="Bootstrap" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="PHP" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img alt="Laravel" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-  <img alt="WordPress" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-</div>
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f310.svg" width="24"/> Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react)](https://skillicons.dev)
+
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2699.svg" width="24"/> Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel)](https://skillicons.dev)
+
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5c4.svg" width="24"/> Banco de Dados / ORM
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma)](https://skillicons.dev)
+
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4f1.svg" width="24"/> Mobile
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cc.svg" width="24"/> Utilitários
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+
+</br>
 
 
 ## 📊 Estatísticas
