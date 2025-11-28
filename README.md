@@ -18,8 +18,6 @@ Sou desenvolvedor com experiência em Front-end e Back-end, voltado para a cria�
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4f1.svg" width="24"/> Mobile
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cc.svg" width="24"/> Utilitários
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 </br>
 
