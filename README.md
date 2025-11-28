@@ -24,24 +24,14 @@ Sou desenvolvedor com experiência em Front-end e Back-end, voltado para a cria�
 </br>
 
 
-## 📊 Estatísticas
-
-<p align="start">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pradiss&show_icons=true&theme=transparent&hide_title=true&count_private=true" />
- 
-</p>
-
-
 ## 🚀 Projetos em destaque
 
 - Plataforma de Músicos e Bandas (Web e Mobile) — **Zene** | Laravel + React + React Native  
 - Integração de Pagamentos via PIX — **Ibank** | Laravel + React Native  
 - Sites Institucionais — **WordPress** | LINK: https://reisereismaquinas.com.br/ | 
 - Sites Institucionais — **WordPress** | LINK: https://guidara.com.br/ | 
+
  
-
-
-
 ## 📩 Contato
 
 <div > 
