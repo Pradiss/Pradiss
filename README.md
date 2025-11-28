@@ -13,13 +13,13 @@ Sou desenvolvedor com experiência em Front-end e Back-end, voltado para a cria�
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel)](https://skillicons.dev)
 
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5c4.svg" width="24"/> Banco de Dados / ORM
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4f1.svg" width="24"/> Mobile
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cc.svg" width="24"/> Utilitários
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 </br>
 
