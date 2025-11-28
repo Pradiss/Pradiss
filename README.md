@@ -17,6 +17,8 @@ Sou desenvolvedor com experiência em Front-end e Back-end, voltado para a cria�
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4f1.svg" width="24"/> Mobile
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4bb.svg" width="24"/> CMS / No-Code
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 </br>
 
 ## 🚀 Projetos em destaque
