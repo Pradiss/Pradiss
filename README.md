@@ -9,7 +9,7 @@ Sou desenvolvedor com experiÃªncia em Front-end e Back-end, voltado para a criaÃ
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
 
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2699.svg" width="24"/> Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,python)](https://skillicons.dev)
 
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5c4.svg" width="24"/> Banco de Dados / ORM
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
