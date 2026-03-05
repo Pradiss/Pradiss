@@ -6,7 +6,7 @@ Sou desenvolvedor com experiÃªncia em Front-end e Back-end, voltado para a criaÃ
 </hr>
 
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f310.svg" width="24"/> Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind)](https://skillicons.dev)
 
 ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2699.svg" width="24"/> Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,python)](https://skillicons.dev)
