@@ -23,7 +23,7 @@ Sou desenvolvedor com experiência em Front-end e Back-end, voltado para a cria�
 
 ## 🚀 Projetos em destaque
 
-- Plataforma de Músicos e Bandas (Web e Mobile) — **Zene** | Laravel + React + React Native  
+- Plataforma de Agendamento de Quadras — **iquadra** | Node + Next.js  
 - Integração de Pagamentos via PIX — **Ibank** | Laravel + React Native  
 - Sites Institucionais — **WordPress** | LINK: https://reisereismaquinas.com.br/ | 
 - Sites Institucionais — **WordPress** | LINK: https://guidara.com.br/ | 
